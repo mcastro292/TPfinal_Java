@@ -1,0 +1,8 @@
+Ronda1,Pepito,Argentina,ArabiaSaudita,1,2
+Ronda2,Pepito,Polonia,Mexico,0,0
+Ronda3,Pepito,ArabiaSaudita,Mexico,0,1
+Ronda4,Pepito,Argentina,Polonia,2,0
+Ronda1,Fulano,Argentina,ArabiaSaudita,0,0
+Ronda2,Fulano,Polonia,Mexico,2,3
+Ronda3,Fulano,ArabiaSaudita,Mexico,0,1
+Ronda4,Fulano,Argentina,Polonia,0,0

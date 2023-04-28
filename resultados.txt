@@ -1,0 +1,4 @@
+Ronda1,Argentina,ArabiaSaudita,1,2
+Ronda2,Polonia,Mexico,0,0
+Ronda3,ArabiaSaudita,Mexico,0,1
+Ronda4,Argentina,Polonia,4,0
